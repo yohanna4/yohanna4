@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Yohanna 
-- 🌱 I’m currently learning Flutter & React Native
+### Hi there 👋, my name is Yohanna
+#### Software Developer
+- 🔭 I’m currently learning Flutter & React Native. 
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me Email: yohannayim4@gmail.com 
 
