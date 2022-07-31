@@ -3,7 +3,7 @@
 - 🔭 I’m currently learning Flutter & React Native. 
 - 💞️ I’m looking to collaborate with other developers
 #### Contact Me
-📫:  yohannayim4@gmail.com 
+📫:   yohannayim4@gmail.com 
 
 <!---
 yohanna4/yohanna4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
