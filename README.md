@@ -2,8 +2,8 @@
 #### Software Developer
 - 🔭 I’m currently learning Flutter & React Native. 
 - 💞️ I’m looking to collaborate with other developers
-- #### Contact Me
-- 📫 Email: yohannayim4@gmail.com 
+#### Contact Me
+📫 Email: yohannayim4@gmail.com 
 
 <!---
 yohanna4/yohanna4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
