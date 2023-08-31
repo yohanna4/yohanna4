@@ -4,7 +4,7 @@
 - I love coding, reading, and learning languages (I'm currently learning Spanish).
 - I’m currently learning Apache Kafka.
 - Available for new opportunities!
-- I’m looking to collaborate with other developers
+  
 #### Contact Me
 📫:   yohannayim4@gmail.com 
 
