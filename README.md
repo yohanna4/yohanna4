@@ -1,6 +1,9 @@
 ### Hi there 👋, my name is Yohanna
 #### Software Developer
-- 🔭 I’m currently learning Flutter & React Native. 
+- I am a front-end software developer and data engineer.
+- I love coding, reading, and learning languages (I'm currently learning Spanish).
+- 🔭 I’m currently learning Apache Kafka.
+- Available for new opportunities!
 - I’m looking to collaborate with other developers
 #### Contact Me
 📫:   yohannayim4@gmail.com 
