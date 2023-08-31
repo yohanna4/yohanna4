@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Yohanna
-#### Software Developer
 - I am a front-end software developer and data engineer.
 - I’m currently learning Apache Kafka.
 - Available for new opportunities!
