@@ -4,6 +4,7 @@
 🌱 I’m always eager to explore new technologies and improve my skills.
 
 💼 Open to Opportunities
+
 I’m open to collaborations, freelance projects, and new challenges in software development.
   
 #### How to Reach Me
