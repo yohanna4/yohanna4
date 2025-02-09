@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Yohanna
 🚀 I’m a Full-Stack Software Developer with expertise in React.js, Next.js, Node.js, Nest.js and DevOps.
+
 🛠️ I also have experience in database systems, information retrieval, and data mining
+
 🌱 I’m always eager to explore new technologies and improve my skills.
 
 💼 Open to Opportunities
