@@ -5,18 +5,17 @@
 
 🌱 I’m always eager to explore new technologies and improve my skills.
 
-
-
-💼 Open to Opportunities
-
-I’m open to collaborations, freelance projects, and new challenges in software development.
+💼 I’m open to collaborations, freelance projects, and new challenges in software development.
   
-#### How to Reach Me
-📫:   yohannayim4@gmail.com 
-
-Feel free to reach out if you have any questions, opportunities, or exciting projects to discuss! 🚀
+<p> Tech Stack & Frameworks I've Worked With
+<br>
+<p align="start">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,nestjs" />
+      <img src="https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=firebase,mongodb,postgres,mysql,docker" />
+  </a>
+</p>
+<br>
 
 <!---
-yohanna4/yohanna4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
