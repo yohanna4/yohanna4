@@ -13,7 +13,7 @@
 <p align="start">
   <a href="">
     <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,nestjs" /><br>
-    <img src="https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=firebase,mongodb,postgres,mysql,docker" />
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,mysql,docker" />
   </a>
 </p>
 <br>
