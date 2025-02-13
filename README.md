@@ -6,13 +6,14 @@
 🌱 I’m always eager to explore new technologies and improve my skills.
 
 💼 I’m open to collaborations, freelance projects, and new challenges in software development.
-  
+
+<br>
 <p> Tech Stack & Frameworks I've Worked With
 <br>
 <p align="start">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,nestjs" />
-      <img src="https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=firebase,mongodb,postgres,mysql,docker" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,nestjs" /><br>
+    <img src="https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=firebase,mongodb,postgres,mysql,docker" />
   </a>
 </p>
 <br>
